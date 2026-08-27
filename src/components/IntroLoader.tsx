@@ -95,7 +95,7 @@ export const IntroLoader: React.FC = () => {
             <span>PORTFOLIO ARCHIVE // 2026</span>
           </div>
           <div className="intro-text-line hidden sm:block">
-            [ Prasanna S — CREATIVE DIRECTION ]
+            [ Prasanna S — CREATIVE TECHNOLOGIST ]
           </div>
         </div>
 
@@ -107,7 +107,7 @@ export const IntroLoader: React.FC = () => {
           </div>
           <div className="overflow-hidden">
             <p className="intro-text-line font-serif italic text-xl sm:text-2xl md:text-3xl text-brand-white/80">
-              digital architecture & elevated identity
+              creative technologist & elevated identity
             </p>
           </div>
         </div>
