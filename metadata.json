@@ -1,0 +1,8 @@
+{
+  "name": "Prasanna Portfolio",
+  "description": "A professional, minimalist portfolio template inspired by Prasanna, featuring smooth animations and a clean aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
